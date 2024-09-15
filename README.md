@@ -1,3 +1,14 @@
+# APP RECRUTAMENTO
+
+## Tela de login / cadastro / andamento / seleção de candidato:
+<img src="https://github.com/user-attachments/assets/2c85ffa7-b405-4b9b-9dfd-1f6233bd5529" alt="Tela de Login / Cadastro" width="500"/>
+<img src="https://github.com/user-attachments/assets/dd21cfb6-de63-4c8f-ad2e-50787ee38ade" alt="Tela de Finalização / Acompanhamento / Recrutador" width="500"/>
+
+## Tela de ranking / etapas do processo / andamento:
+<img src="https://github.com/user-attachments/assets/9124855f-1215-4d38-8daf-ca3cfa46d225" alt="Tela de Finalização / Acompanhamento / Recrutador" width="500"/>
+<img src="https://github.com/user-attachments/assets/72f6d68a-9744-4be4-a310-f5fd9e36579d" alt="Tela de Finalização / Acompanhamento / Recrutador" width="500"/>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,6 +45,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# recruta-app
-# recruta-app
-# recruta-app
