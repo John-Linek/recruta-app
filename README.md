@@ -1,12 +1,12 @@
 # APP RECRUTAMENTO
 
 ## Tela de login / cadastro / andamento / seleção de candidato:
-<img src="https://github.com/user-attachments/assets/2c85ffa7-b405-4b9b-9dfd-1f6233bd5529" alt="Tela de Login / Cadastro" width="500"/>
-<img src="https://github.com/user-attachments/assets/dd21cfb6-de63-4c8f-ad2e-50787ee38ade" alt="Tela de Finalização / Acompanhamento / Recrutador" width="500"/>
+<img src="https://github.com/user-attachments/assets/2c85ffa7-b405-4b9b-9dfd-1f6233bd5529" alt="Tela de Login / Cadastro" width="auto"/>
+<img src="https://github.com/user-attachments/assets/dd21cfb6-de63-4c8f-ad2e-50787ee38ade" alt="Tela de Finalização / Acompanhamento / Recrutador" width="auto"/>
 
 ## Tela de ranking / etapas do processo / andamento:
-<img src="https://github.com/user-attachments/assets/9124855f-1215-4d38-8daf-ca3cfa46d225" alt="Tela de Finalização / Acompanhamento / Recrutador" width="500"/>
-<img src="https://github.com/user-attachments/assets/72f6d68a-9744-4be4-a310-f5fd9e36579d" alt="Tela de Finalização / Acompanhamento / Recrutador" width="500"/>
+<img src="https://github.com/user-attachments/assets/9124855f-1215-4d38-8daf-ca3cfa46d225" alt="Tela de Finalização / Acompanhamento / Recrutador" width="auto"/>
+<img src="https://github.com/user-attachments/assets/72f6d68a-9744-4be4-a310-f5fd9e36579d" alt="Tela de Finalização / Acompanhamento / Recrutador" width="auto"/>
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
